@@ -1,4 +1,4 @@
-void main(void){
+﻿void main(void){
 	int a, b;
 	if(a=b){
 		b=+1;
@@ -6,6 +6,6 @@ void main(void){
 
 	//añadido por un forker
 	printf("ff");
-
+	print(/);
 
 }
