@@ -4,7 +4,8 @@ void main(void){
 		b=+1;
 	}
 
-	printf("ff")
+	//añadido por un forker
+	printf("ff");
 
 
 }
