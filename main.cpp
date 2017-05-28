@@ -4,6 +4,7 @@ void main(void){
 		b=+1;
 	}
 
+	printf("ff")
 
 
 }
